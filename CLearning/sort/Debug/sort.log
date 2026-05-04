@@ -1,0 +1,4 @@
+﻿  main.c
+C:\root\Code\C_repo\CLearning\sort\main.c(118,36): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\root\Code\C_repo\CLearning\sort\main.c(209,25): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  sort.vcxproj -> C:\root\Code\C_repo\CLearning\Debug\sort.exe

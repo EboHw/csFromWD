@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+BreakBeforeBraces: Attach
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+PointerAlignment: Left
+AlignConsecutiveAssignments: true
+ColumnLimit: 120
+AccessModifierOffset: -4
+SortIncludes: true

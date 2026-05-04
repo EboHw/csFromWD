@@ -1,0 +1,5 @@
+﻿  main.c
+C:\root\Code\C_repo\CLearning\testProj\main.c(10,11): warning C4013: “malloc”未定义；假设外部返回 int
+C:\root\Code\C_repo\CLearning\testProj\main.c(17,2): warning C4013: “free”未定义；假设外部返回 int
+C:\root\Code\C_repo\CLearning\testProj\main.c(10,7): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  testProj.vcxproj -> C:\root\Code\C_repo\CLearning\Debug\testProj.exe

@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/解决方案项/">
+    <File Path=".clang-format" />
+  </Folder>
+  <Project Path="aboutPointer/aboutPointer.vcxproj" Id="50680b8a-5581-4a8f-9873-90e94958e808" />
+  <Project Path="binarySearch/binarySearch.vcxproj" Id="0be90f0a-ee0b-43b2-bfd3-fee16cf67108" />
+  <Project Path="BST/BST.vcxproj" Id="e4b2f17b-b552-43df-be63-238f06541730" />
+  <Project Path="bugTest/bugTest.vcxproj" Id="e2c16d44-60b1-4620-9b47-b1da24c8b500" />
+  <Project Path="DynamicStructure/DynamicStructure.vcxproj" Id="2cd798dd-20b7-48af-a90d-cce2d6403a87" />
+  <Project Path="hashMap/hashMap.vcxproj" Id="bd77d9e7-9bc5-4fc4-901f-8c654372844f" />
+  <Project Path="MyCTemplate/MyCTemplate.vcxproj" Id="bebd7d83-1a41-47f9-a6c2-49d539b5954a" />
+  <Project Path="queue/queue.vcxproj" Id="91cf0ad4-a480-4182-bc6c-8df6e3022dda" />
+  <Project Path="sort/sort.vcxproj" Id="ac85245c-aff7-404c-a020-bd6eec1acd31" />
+  <Project Path="stack/stack.vcxproj" Id="f8e1052e-68bb-463a-a1b4-43ad5cf0b271" />
+  <Project Path="templateC/templateC.vcxproj" Id="9d8082e6-bd3b-465a-becc-2a00b99a2f26" />
+  <Project Path="testProj/testProj.vcxproj" Id="989c2622-4178-43e8-9501-db723f8591ab" />
+  <Project Path="动态数组/动态数组.vcxproj" Id="2cd54933-653b-43d6-9d65-42422c9993db" />
+</Solution>

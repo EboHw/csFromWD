@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(find \"C:/root\" -type f -name \"*hexo*\" 2>/dev/null | head -20)",
+      "Bash(find \"C:/root\" -type d -name \"*hexo*\" 2>/dev/null | head -20)",
+      "WebFetch(domain:hexo.io)",
+      "WebFetch(domain:medium.design)",
+      "WebFetch(domain:principles.design)",
+      "WebFetch(domain:github.com)",
+      "Bash(find C:/root/ -maxdepth 4 -name \"package.json\" -path \"*/hexo*\" 2>/dev/null; find C:/root/ -maxdepth 5 -type d -name \"landscape\" 2>/dev/null; npm list -g hexo-cli 2>/dev/null || echo \"hexo-cli not found globally\")",
+      "Bash(npm root:*)",
+      "Bash(node -v 2>/dev/null && npm -v 2>/dev/null)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:medium.com)"
+    ]
+  }
+}
